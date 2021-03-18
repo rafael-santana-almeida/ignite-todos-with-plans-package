@@ -1,4 +1,5 @@
-<h1 align="center">Gerenciamento de tarefas (todos) com plano gratuito e PRO - Ignite | Rocketseat :rocket:</h1> 
+<h1 align="center">Gerenciamento de tarefas (todos) com plano gratuito e PRO</h1> 
+<h1 align="center">Ignite | Rocketseat :rocket:</h1>
 
 ## :memo: Descrição e funcionalidades
 
