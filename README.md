@@ -6,7 +6,7 @@
 
 ## :memo: Descrição e funcionalidades
 
-Essa é uma pequena API desenvolvida em **NodeJS**, como primeiro desafio do bootcamp Ignite da Rocketseat, onde consiste em uma aplicação de gerenciamento de Tarefas (*todos*).
+Essa é uma pequena API desenvolvida em **NodeJS**, como segundo desafio do bootcamp Ignite da Rocketseat, onde consiste em uma aplicação de gerenciamento de Tarefas (*todos*). Nessa segunda versão, foi adicionado a modalidade de plano gratuito, onde poderá ser adicionado até 10 tarefas por usuário, e o plano PRO, que não possui limite de tarefas.
 
 A API roda em http://localhost:3333 e possuí as seguintes rotas/funcionalidades:
 
