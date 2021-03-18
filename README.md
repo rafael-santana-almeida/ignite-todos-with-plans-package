@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.payscale.com/career-news/wp-content/uploads/sites/2/2013/05/post-20it-20-c2-a9-20doc-20rabe-20media-20-20fotolia.jpg" />
-</p>
-
 <h1 align="center">Desafio Bootcamp Ignite | Rocketseat :rocket:</h1> 
 
 ## :memo: Descrição e funcionalidades
