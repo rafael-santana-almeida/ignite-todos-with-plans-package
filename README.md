@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.ctfassets.net/6m9bd13t776q/5yac5XKg5qiACu06a84icc/b18c4c2bd2594b3b27d24a943f711b08/second-trimester-to-dos-2160x1200.jpg?q=75&w=450" />
+  <img src="https://www.payscale.com/career-news/wp-content/uploads/sites/2/2013/05/post-20it-20-c2-a9-20doc-20rabe-20media-20-20fotolia.jpg" />
 </p>
 
 <h1 align="center">Desafio Bootcamp Ignite | Rocketseat :rocket:</h1> 
